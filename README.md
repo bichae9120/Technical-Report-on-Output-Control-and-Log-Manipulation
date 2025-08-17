@@ -10,7 +10,11 @@ The focus is on identifying patterns, possible mechanisms, technical indicators,
   - Observed behaviors and filtering patterns  
   - Potential technical explanations  
   - Indicators of compromise (IOC)  
-  - Risk assessment and response strategies  
+  - Risk assessment and response strategies
+ 
+## Capture Files
+Some screenshots are included for context.  
+⚠️ Note: These captures represent **direct GPT outputs**. The user did not create or alter the generated content.
 
 ## Purpose
 The report is written from a neutral standpoint.  
